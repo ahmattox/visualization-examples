@@ -1,0 +1,208 @@
+{
+  "states" : [
+    {
+      "name": "Alabama",
+      "population" : 129
+    },
+    {
+      "name": "Alaska",
+      "population" : 541
+    },
+    {
+      "name": "Arizona",
+      "population" : 124
+    },
+    {
+      "name": "Arkansas",
+      "population" : 594
+    },
+    {
+      "name": "California",
+      "population" : 39
+    },
+    {
+      "name": "Colorado",
+      "population" : 948
+    },
+    {
+      "name": "Connecticut",
+      "population" : 382
+    },
+    {
+      "name": "Delaware",
+      "population" : 693
+    },
+    {
+      "name": "District",
+      "population" : 392
+    },
+    {
+      "name": "Florida",
+      "population" : 194
+    },
+    {
+      "name": "Georgia",
+      "population" : 966
+    },
+    {
+      "name": "Hawaii",
+      "population" : 867
+    },
+    {
+      "name": "Idaho",
+      "population" : 485
+    },
+    {
+      "name": "Illinois",
+      "population" : 349
+    },
+    {
+      "name": "Indiana",
+      "population" : 684
+    },
+    {
+      "name": "Iowa",
+      "population" : 249
+    },
+    {
+      "name": "Kansas",
+      "population" : 359
+    },
+    {
+      "name": "Kentucky",
+      "population" : 695
+    },
+    {
+      "name": "Louisiana",
+      "population" : 491
+    },
+    {
+      "name": "Maine",
+      "population" : 943
+    },
+    {
+      "name": "Maryland",
+      "population" : 234
+    },
+    {
+      "name": "Massachusetts",
+      "population" : 345
+    },
+    {
+      "name": "Michigan",
+      "population" : 503
+    },
+    {
+      "name": "Minnesota",
+      "population" : 249
+    },
+    {
+      "name": "Mississippi",
+      "population" : 124
+    },
+    {
+      "name": "Missouri",
+      "population" : 124
+    },
+    {
+      "name": "Montana",
+      "population" : 124
+    },
+    {
+      "name": "Nebraska",
+      "population" : 124
+    },
+    {
+      "name": "Nevada",
+      "population" : 124
+    },
+    {
+      "name": "New",
+      "population" : 124
+    },
+    {
+      "name": "New",
+      "population" : 124
+    },
+    {
+      "name": "New",
+      "population" : 124
+    },
+    {
+      "name": "New",
+      "population" : 124
+    },
+    {
+      "name": "North",
+      "population" : 124
+    },
+    {
+      "name": "North",
+      "population" : 124
+    },
+    {
+      "name": "Ohio",
+      "population" : 124
+    },
+    {
+      "name": "Oklahoma",
+      "population" : 124
+    },
+    {
+      "name": "Oregon",
+      "population" : 124
+    },
+    {
+      "name": "Pennsylvania",
+      "population" : 124
+    },
+    {
+      "name": "Rhode",
+      "population" : 124
+    },
+    {
+      "name": "South",
+      "population" : 124
+    },
+    {
+      "name": "South",
+      "population" : 124
+    },
+    {
+      "name": "Tennessee",
+      "population" : 124
+    },
+    {
+      "name": "Texas",
+      "population" : 124
+    },
+    {
+      "name": "Utah",
+      "population" : 124
+    },
+    {
+      "name": "Vermont",
+      "population" : 124
+    },
+    {
+      "name": "Virginia",
+      "population" : 124
+    },
+    {
+      "name": "Washington",
+      "population" : 124
+    },
+    {
+      "name": "West",
+      "population" : 124
+    },
+    {
+      "name": "Wisconsin",
+      "population" : 124
+    },
+    {
+      "name": "Wyoming",
+      "population" : 124
+    }
+  ]
+}
